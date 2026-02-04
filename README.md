@@ -1,6 +1,6 @@
 ## Hi, im Sinan 👋
 # 💫 About Me:
-🧑🏻‍💻 I go to school and try to learn Programming<br>📖 I want to know everything<br>🈵 Speaking 4 languages (learning the 5th)<br>🐉 Game of Thrones is the best serie<br>📍 Germany
+🧑🏻‍💻 I go to school and try to learn Programming<br>📖 Suffering from the disease of wanting to learn everything<br>🈵 Speaking 4 languages (learning the 5th)<br>🐉 Game of Thrones is the best series<br>📍 Germany
 
 
 # 💻 Tech Stack:
